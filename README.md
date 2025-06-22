@@ -15,7 +15,7 @@ I'm a **Full-Stack Developer** from 🇮🇳 India with **6+ years of experience
 - Continuous learning and keeping up with modern tools & frameworks
 
 🔗 **Let’s Connect**  
-🌐 [Portfolio Website](https://yavinash-cloud.github.io/My_Portfolio.github.io/)  
+🌐 [Portfolio Website](https://aky.netlify.app/)  
 💼 [LinkedIn](https://www.linkedin.com/in/avinashydv)  
 📫 Email: aviee6026@gmail.com
 
